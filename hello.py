@@ -1,1 +1,1 @@
-print("hello world")
+print("Hello WIDS! And a special hello to Cindy!")
