@@ -1,2 +1,3 @@
 # improved-octo-guacamole
-Julia WIDS git tutorial
+
+Now Cindy is adding a new line to the README.md
